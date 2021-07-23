@@ -1,4 +1,4 @@
-`include "ripple_carry_counter_top.v"
+`include "Ripple_carry_counter.v"
 module stimulus;
 
 reg clk, reset;
