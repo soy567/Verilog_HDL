@@ -1,0 +1,6 @@
+.DS_Store
+
+# Verilog 파일만 포함
+*.vvp
+*.vcd
+
